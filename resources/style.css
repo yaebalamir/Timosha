@@ -1,0 +1,50 @@
+
+.img-container{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.text{
+    text-align: center;
+}
+.font{
+    color: rgb(216, 33, 115);
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Shantell Sans', serif;
+}
+.gift{
+    text-align: center;
+}
+.align{
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(225, 100, 127);
+    background-color: rgb(254, 186, 203);
+}
+.align:hover{
+    background-color: rgb(246, 206, 206);
+}
+a{
+    text-decoration: none;
+    color: rgb(216, 33, 115);
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 8px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+p{
+    margin-bottom: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+  

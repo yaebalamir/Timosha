@@ -1,0 +1,30 @@
+.img-container{
+    margin-top: 290px;
+    display: flex;
+    justify-content: center;
+}
+.scale{
+    width: 50px;
+    transition: transform 0.5s
+}
+.scale:hover{
+    transform: scale(15);
+    
+}
+.font{
+    color: rgb(216, 33, 115);
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Shantell Sans', serif;
+}
+.flex{
+    display: flex;
+    margin-top: 110px;
+    flex-direction:row;
+    justify-content: center;
+}
+.strel{
+    margin-top: 55px;
+    width: 40px;
+    height: 40px;
+}
